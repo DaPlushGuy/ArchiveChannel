@@ -1,8 +1,8 @@
 <app version="1">
-<name>Archive Channel</name>
+<name>The Archive Channel</name>
 <coder>DaPlushGuy</coder>
-<version>v0.1 Wii Edition</version>
-<release_date>202508001500</release_date>
+<version>0.1</version>
+<release_date>20250815000000</release_date>
 <short_description>Download Wii Games Online</short_description>
 <long_description>Download Wii ROMS directly to your console without the hassle of extracting ZIP files, renaming files for box art, and copying to your USB. This app uses the Vimm's Lair repository (vimm.net), so you can be sure all ROMS are safe to use. Other consoles will have downloads in the future, but for now, only Wii ROMS are available for download.</long_description>
 </app>

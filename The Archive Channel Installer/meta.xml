@@ -1,0 +1,8 @@
+<app version="1">
+<name>The Archive Channel Installer</name>
+<coder>DaPlushGuy</coder>
+<version>0.1</version>
+<release_date>20250815000000</release_date>
+<short_description>Installs The Archive Channel forwarder</short_description>
+<long_description>Installs the WAD for The Archive Channel so you can access it directly from the Wii home menu like an actual channel.</long_description>
+</app>
